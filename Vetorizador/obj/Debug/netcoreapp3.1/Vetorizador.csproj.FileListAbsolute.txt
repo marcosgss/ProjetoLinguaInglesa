@@ -1,0 +1,15 @@
+C:\Users\marcos.guilherme\source\repos\Vetorizador\Vetorizador\bin\Debug\netcoreapp3.1\Vetorizador.exe
+C:\Users\marcos.guilherme\source\repos\Vetorizador\Vetorizador\bin\Debug\netcoreapp3.1\Vetorizador.deps.json
+C:\Users\marcos.guilherme\source\repos\Vetorizador\Vetorizador\bin\Debug\netcoreapp3.1\Vetorizador.runtimeconfig.json
+C:\Users\marcos.guilherme\source\repos\Vetorizador\Vetorizador\bin\Debug\netcoreapp3.1\Vetorizador.runtimeconfig.dev.json
+C:\Users\marcos.guilherme\source\repos\Vetorizador\Vetorizador\bin\Debug\netcoreapp3.1\Vetorizador.dll
+C:\Users\marcos.guilherme\source\repos\Vetorizador\Vetorizador\bin\Debug\netcoreapp3.1\Vetorizador.pdb
+C:\Users\marcos.guilherme\source\repos\Vetorizador\Vetorizador\obj\Debug\netcoreapp3.1\Vetorizador.csprojAssemblyReference.cache
+C:\Users\marcos.guilherme\source\repos\Vetorizador\Vetorizador\obj\Debug\netcoreapp3.1\Vetorizador.frmTelaPrincipal.resources
+C:\Users\marcos.guilherme\source\repos\Vetorizador\Vetorizador\obj\Debug\netcoreapp3.1\Vetorizador.csproj.GenerateResource.cache
+C:\Users\marcos.guilherme\source\repos\Vetorizador\Vetorizador\obj\Debug\netcoreapp3.1\Vetorizador.AssemblyInfoInputs.cache
+C:\Users\marcos.guilherme\source\repos\Vetorizador\Vetorizador\obj\Debug\netcoreapp3.1\Vetorizador.AssemblyInfo.cs
+C:\Users\marcos.guilherme\source\repos\Vetorizador\Vetorizador\obj\Debug\netcoreapp3.1\Vetorizador.csproj.CoreCompileInputs.cache
+C:\Users\marcos.guilherme\source\repos\Vetorizador\Vetorizador\obj\Debug\netcoreapp3.1\Vetorizador.dll
+C:\Users\marcos.guilherme\source\repos\Vetorizador\Vetorizador\obj\Debug\netcoreapp3.1\Vetorizador.pdb
+C:\Users\marcos.guilherme\source\repos\Vetorizador\Vetorizador\obj\Debug\netcoreapp3.1\Vetorizador.genruntimeconfig.cache
